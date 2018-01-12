@@ -15,7 +15,7 @@ All information about the course will be posted here.
 
 ## News
 
-* **Jan 17** &mdash; Welcome back!
+* **Jan 17** &mdash; Welcome back!  The [Syllabus](syllabus.html) and [Assignments](assign/index.html) pages have a complete overview of the course and what you will be expected to do.
 
 <!-- vim:set wrap: -->
 <!-- vim:set linebreak: -->
