@@ -130,3 +130,7 @@ If you had an IEP or 504 plan in high school or if you have a disability or heal
 ### Disclaimer
 
 This syllabus is subject to change by the instructor.
+
+<!-- vim:set wrap: -->
+<!-- vim:set linebreak: -->
+<!-- vim:set nolist: -->
