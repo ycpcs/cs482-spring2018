@@ -15,7 +15,7 @@ There are three deliverables.
 
 ## Proposal description
 
-Using Google Docs, write a short (1&ndash;3 page) proposal describing your project.  Describe what problem is it intended to solve, who are the users, what languages/frameworks/technologies do you plan to use, etc.  Use diagrams as appropriate (e.g., user interface sketches.)
+Using Google Docs, write a short (2-3 page) proposal describing your project.  Describe what problem is it intended to solve, who are the users, what languages/frameworks/technologies do you plan to use, etc.  Use diagrams as appropriate (e.g., user interface sketches.)
 
 <div class="callout">
 <b>Important</b>: Please discuss your project idea with at least one of the instructors before you write the proposal.  We will give you feedback on whether your idea is sufficiently interesting and feasible.
