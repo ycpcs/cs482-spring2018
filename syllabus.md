@@ -48,10 +48,10 @@ Your overall grade for the course will be determined as follows:
 
 - Your project grade is a weighted average of an initial proposal and four milestone grades:
     - Initial proposal: 5%
-    - Milestone 1: 11.71%
-    - Milestone 2: 17.55%
-    - Milestone 3: 26.30%
-    - Milestone 4: 39.44%
+    - Milestone 1: 20.46%
+    - Milestone 2: 22.52%
+    - Milestone 3: 24.77%
+    - Milestone 4: 27.25%
 - Your individual grade for the course is your project grade multiplied by an individual effort factor determined by the instructors.  If you are doing an individual project, your individual effort factor is 1, meaning that your individual grade will be the same as your project grade.
 
 Grades are assigned on a 100-point scale:
