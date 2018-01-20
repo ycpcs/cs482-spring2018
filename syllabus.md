@@ -15,7 +15,7 @@ Class times:
 Instructors:
 
 - [David Hovemeyer](http://faculty.ycp.edu/~dhovemey), <dhovemey@ycp.edu>, Office hours (KEC 113) M/W 1-3, F 11-12, or by arrangement
-- [Don Hake](http://faculty.ycp.edu/~djhake2/), <djhake2@ycp.edu>, Office hours TBD
+- [Don Hake](http://faculty.ycp.edu/~djhake2/), <djhake2@ycp.edu>, Office hours (KEC 137) M/W/F 10-11, Tu 10:30-12:30, or by arrangement
 
 Course Description
 ------------------
