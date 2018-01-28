@@ -5,7 +5,7 @@ title: Home page
 
 # Welcome to CS 482, Spring 2018!
 
-This is the website for CS 101, Spring 2018 at York College.
+This is the website for CS 482, Spring 2018 at York College.
 All information about the course will be posted here.
 
 ## Links
