@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 3: Milestone 2"
 ---
 
-Due: Monday, Mar 5th
+Due: Monday, Mar 12th
 
 # Your task
 
